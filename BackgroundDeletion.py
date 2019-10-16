@@ -7,6 +7,7 @@ img=Image.open("name.jpg")
 array=np.array(img)
 
 #function which crops the columns
+#eventually crops the rows as well
 
 def crop(ar):
     c = ar.shape[1]

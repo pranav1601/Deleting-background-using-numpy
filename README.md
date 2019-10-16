@@ -1,5 +1,5 @@
 # Deleting-background-using-numpy
-This code removes the frame of any picture if the frame consists of only one color using numpy.
+This code removes the frame of any picture if the frame consists of only one color using numpy. Still working on detection of multiple colours.
 # INSTALLATION:
 In order to run the code, the user needs to install the following:
 1. PIL
